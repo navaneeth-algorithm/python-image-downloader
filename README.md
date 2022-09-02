@@ -1,4 +1,4 @@
-# refactored-spoon
+# Python Image Downloader
 Python code for downloading images from website  using Beautiful Soup Parse
 
 
